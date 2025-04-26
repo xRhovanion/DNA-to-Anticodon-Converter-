@@ -10,7 +10,6 @@
 
 bash
 cd dna-anticodon-converter
-
 # Örnek çalıştırma:
 DNA dizisini girin: ATGCGTA
 Antikodonlar: ['UGC', 'CGA']
